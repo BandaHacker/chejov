@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "antd": "^2.13.10",
+    "bootstrap": "^4.0.0-beta.2",
     "draft-js": "^0.9.1",
     "draft-js-simpledecorator": "^1.0.2",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.12.9",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-scripts": "1.0.17",
